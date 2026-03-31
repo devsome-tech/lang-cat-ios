@@ -37,7 +37,7 @@ Designed to mirror native Apple APIs, LangCat requires zero changes to your exis
 LangCat is available through [Swift Package Manager](https://swift.org/package-manager/).
 
 1. In Xcode, navigate to **File > Add Package Dependencies...**
-2. Enter the repository URL: `https://github.com/lang-cat/lang-cat-ios.git`
+2. Enter the repository URL: `https://github.com/devsome-tech/lang-cat-ios.git`
 3. Decide your dependency rule (Up to Next Minor Version is recommended) and Add Package.
 4. Check the box for both `LangCat` and `LangCatSyncHelper` if you want automatic build phase syncing.
 
